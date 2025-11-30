@@ -1,4 +1,4 @@
-Documentation's/
+/Documentation's
 java/
 interface/
 
@@ -6,3 +6,5 @@ interface/
 *.pdf
 *.png
 *.jpg
+
+A.class
